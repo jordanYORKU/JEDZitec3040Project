@@ -1,0 +1,700 @@
+Index,Age,Gender,Checked In,Ticket Type,Buyer Pays,Predicted Name Origin
+1,22,Male,No,Final Admission,33,Western European
+2,22,Female,Yes,Early Bird,15,East & Southeast Asian
+3,20,Male,Yes,General Admission,25,East & Southeast Asian
+4,18,Female,Yes,Early Bird - TK Party's,0,Western European
+5,21,Male,Yes,General Admission,25,Western European
+6,19,Male,Yes,General Admission,19.02,Sub-Saharan African
+7,,,Yes,Early Bird,15,Western European
+8,19,Female,No,Secret Admission,22,Middle Eastern & North African
+9,22,Male,Yes,Late Admission,29,South Asian
+10,20,Female,Yes,Secret Admission,22,Middle Eastern & North African
+11,26,Male,Yes,Secret Admission,22,Eastern/Central European
+12,20,Female,No,General Admission,25,Americas & Oceania
+13,20,Male,Yes,Secret Admission,22,Middle Eastern & North African
+14,23,Female,Yes,Late Admission,29,Middle Eastern & North African
+15,20,Male,Yes,General Admission,25,Middle Eastern & North African
+16,,,Yes,Special Admission,0,Americas & Oceania
+17,20,Male,No,Final Admission,33,Sub-Saharan African
+18,,,Yes,Special Admission,0,Western European
+19,18,Female,Yes,General Admission,25,Middle Eastern & North African
+20,21,Male,No,Final Admission,33,East & Southeast Asian
+21,19,Female,Yes,Final Admission,33,Western European
+22,21,Male,Yes,General Admission,25,Western European
+23,18,Female,Yes,Early Bird,15,Western European
+24,22,Male,No,Final Admission,33,Western European
+25,19,Male,Yes,General Admission,25,Western European
+26,18,Male,Yes,Late Admission,29,Western European
+27,19,Male,,General - Squad Bundle of 4,19,Americas & Oceania
+28,19,Male,Yes,General - Squad Bundle of 4,19,Americas & Oceania
+29,19,Male,Yes,General - Squad Bundle of 4,19,Americas & Oceania
+30,19,Male,Yes,General - Squad Bundle of 4,19,Americas & Oceania
+31,19,Male,Yes,General - Squad Bundle of 4,19,Americas & Oceania
+32,20,Male,Yes,General Admission,25,Western European
+33,20,Female,Yes,Early Bird,15,Western European
+34,18,Female,Yes,Early Bird,15,Western European
+35,19,Other,Yes,General Admission,25,Western European
+36,18,Female,Yes,Early Bird,15,Western European
+37,20,Female,Yes,General Admission,25,Western European
+38,20,Male,Yes,Late Admission,29,Western European
+39,21,Male,Yes,General Admission,25,Western European
+40,25,Male,Yes,Final Admission,33,Western European
+41,21,Male,Yes,General Admission,25,Western European
+42,19,Female,Yes,Luna trio bundle,15,Sub-Saharan African
+43,,Female,Yes,Luna trio bundle,15,Sub-Saharan African
+44,,Female,Yes,Luna trio bundle,15,Sub-Saharan African
+45,,Female,Yes,Luna trio bundle,15,Sub-Saharan African
+46,29,Male,Yes,Special entry,26.68,Western European
+47,21,Female,Yes,Late Admission,29,Western European
+48,21,Male,Yes,General Admission,10,Americas & Oceania
+49,18,Female,No,General Admission,25,Americas & Oceania
+50,35,Male,No,Final Admission,33,Americas & Oceania
+51,21,Male,Yes,General Admission,25,Americas & Oceania
+52,21,Male,Yes,General Admission,10,Americas & Oceania
+53,18,Female,Yes,Early Bird,15,East & Southeast Asian
+54,21,Male,Yes,General Admission,10,East & Southeast Asian
+55,21,Male,,Felix's friends Bundle,10,Western European
+56,27,Male,Yes,Secret Admission,22,Eastern/Central European
+57,18,Female,Yes,Early Bird - TK Party's,0,Western European
+58,,,Yes,Early Bird,15,Western European
+59,32,Male,No,General Admission,25,Sub-Saharan African
+60,18,Female,Yes,General Admission,25,Americas & Oceania
+61,33,Male,Yes,Final Admission,33,Americas & Oceania
+62,,,Yes,Special Admission,0,Western European
+63,19,Male,Yes,General Admission,25,Western European
+64,18,Female,Yes,General Admission,19.02,Western European
+65,19,Male,No,General Admission,25,Middle Eastern & North African
+66,20,Male,Yes,Late Admission,29,Americas & Oceania
+67,29,Male,Yes,Special entry,26.68,Western European
+68,22,Male,Yes,Late Admission,29,Western European
+69,21,Male,Yes,General Admission,25,South Asian
+70,24,Male,Yes,Secret Admission,22,East & Southeast Asian
+71,,,Yes,Early Bird,15,Americas & Oceania
+72,19,Male,Yes,Final Admission,33,Eastern/Central European
+73,,,No,Early Bird,15,South Asian
+74,21,Male,Yes,General Admission,25,Western European
+75,24,Male,No,Final Admission,33,Western European
+76,18,Male,No,Late Admission,29,Western European
+77,21,Female,Yes,Late Admission,29,Western European
+78,22,Female,Yes,Late Admission,29,Western European
+79,18,Male,No,General Admission,25,Western European
+80,18,Female,Yes,Early Bird,15,Western European
+81,19,Male,No,General Admission,25,Western European
+82,28,Male,Yes,Final Admission,33,Sub-Saharan African
+83,20,Male,Yes,General Admission,25,East & Southeast Asian
+84,18,,Yes,Early Bird,15,Americas & Oceania
+85,19,Male,Yes,General Admission,25,Middle Eastern & North African
+86,23,Male,No,Secret Admission,22,Western European
+87,20,Other,Yes,Late Admission,29,East & Southeast Asian
+88,19,Male,Yes,Final Admission,33,Western European
+89,20,Male,No,General Admission,25,Western European
+90,19,Female,Yes,General Admission,25,Western European
+91,19,Male,,General - Squad Bundle of 4,19,Western European
+92,20,Male,No,General - Squad Bundle of 4,19,Western European
+93,20,Female,No,General - Squad Bundle of 4,19,Western European
+94,19,Male,No,General - Squad Bundle of 4,19,Western European
+95,19,Female,No,General - Squad Bundle of 4,19,Western European
+96,22,Female,Yes,General Admission,25,Western European
+97,20,Male,Yes,General Admission,25,South Asian
+98,25,Male,No,General Admission,25,Western European
+99,25,Male,No,Secret Admission,22,Eastern/Central European
+100,26,Female,No,Final Admission,33,Western European
+101,22,Male,No,General Admission,25,East & Southeast Asian
+102,18,Female,Yes,Late Admission,29,East & Southeast Asian
+103,21,Male,Yes,General Admission,25,East & Southeast Asian
+104,18,Female,Yes,Early Bird,15,East & Southeast Asian
+105,21,Male,Yes,Final Admission,33,East & Southeast Asian
+106,,,No,Special Admission,0,Western European
+107,21,Male,No,Late Admission,29,Western European
+108,21,Male,No,Late Admission,29,Western European
+109,22,Male,No,Final Admission,33,Americas & Oceania
+110,18,Female,Yes,General Admission,25,Middle Eastern & North African
+111,21,Male,No,Final Admission,33,Western European
+112,19,Female,Yes,Early Bird,15,Middle Eastern & North African
+113,19,Female,Yes,Early Bird,15,Middle Eastern & North African
+114,21,Male,No,General Admission,25,South Asian
+115,21,,Yes,Late Admission,29,Western European
+116,20,Female,No,Secret Admission,22,Western European
+117,20,Male,No,Late Admission,29,Americas & Oceania
+118,22,Other,Yes,Late Admission,29,Western European
+119,21,Male,,General - Squad Bundle of 4,19,Western European
+120,21,Male,No,General - Squad Bundle of 4,19,Western European
+121,19,Female,No,General - Squad Bundle of 4,19,Western European
+122,23,Female,No,General - Squad Bundle of 4,19,Western European
+123,21,Male,No,General - Squad Bundle of 4,19,Western European
+124,20,Female,Yes,General Admission,25,Western European
+125,18,Female,Yes,Late Admission,29,Western European
+126,19,Female,Yes,General Admission,25,Western European
+127,19,Male,Yes,Final Admission,33,Western European
+128,18,Male,No,General Admission,25,Western European
+129,19,Male,Yes,Late Admission,29,Americas & Oceania
+130,21,Male,Yes,General Admission,25,Western European
+131,25,Male,No,General Admission,25,Middle Eastern & North African
+132,21,Male,No,General Admission,25,Middle Eastern & North African
+133,19,Male,No,General Admission,25,Western European
+134,21,Male,Yes,General Admission,25,Western European
+135,18,Male,Yes,Early Bird,15,Western European
+136,25,Male,No,Secret Admission,22,Western European
+137,21,Male,Yes,Final Admission,33,Western European
+138,19,Male,Yes,Final Admission,33,Eastern/Central European
+139,22,Male,Yes,General Admission,25,Eastern/Central European
+140,19,Male,Yes,Early Bird,15,South Asian
+141,19,Male,No,General Admission,25,Eastern/Central European
+142,23,Male,Yes,Late Admission,29,Eastern/Central European
+143,22,Male,Yes,Final Admission,33,Western European
+144,21,Male,No,Final Admission,33,Western European
+145,18,Female,No,General Admission,25,Western European
+146,20,Male,Yes,Special Admission - TK Partys,0,Western European
+147,22,Male,Yes,Late Admission,29,Eastern/Central European
+148,,,Yes,Early Bird,15,Middle Eastern & North African
+149,19,Female,Yes,General Admission,25,South Asian
+150,,,No,Early Bird,15,South Asian
+151,18,Female,Yes,Secret Admission,22,Eastern/Central European
+152,21,Male,No,General Admission,25,Western European
+153,21,Male,Yes,General Admission,25,Eastern/Central European
+154,24,Female,Yes,General Admission,25,East & Southeast Asian
+155,18,Female,Yes,Late Admission,29,Western European
+156,18,Female,Yes,General Admission,25,Western European
+157,18,Female,Yes,General Admission,25,Eastern/Central European
+158,19,,Yes,General Admission,25,Western European
+159,21,Male,No,General Admission,25,Western European
+160,23,Male,No,General Admission,25,East & Southeast Asian
+161,19,Female,Yes,Late Admission,29,Western European
+162,18,Female,No,Late Admission,29,Americas & Oceania
+163,20,Male,Yes,Final Admission,33,Western European
+164,24,,Yes,Late Admission,29,Western European
+165,20,Female,Yes,General Admission,25,Western European
+166,20,Male,,Bundle for Two,21.5,Sub-Saharan African
+167,,,No,Final Admission,21.5,Sub-Saharan African
+168,,,No,Final Admission,21.5,Sub-Saharan African
+169,21,Male,No,General Admission,25,East & Southeast Asian
+170,19,Female,Yes,Final Admission,33,Western European
+171,19,Female,No,General Admission,25,Western European
+172,19,Male,Yes,Late Admission,29,Western European
+173,20,Male,Yes,General Admission,25,Western European
+174,21,Female,No,Late Admission,29,Eastern/Central European
+175,18,Female,Yes,General Admission,25,Middle Eastern & North African
+176,19,Female,Yes,Early Bird,15,Middle Eastern & North African
+177,22,Male,Yes,Late Admission,29,Americas & Oceania
+178,25,Male,Yes,General Admission,25,Western European
+179,25,Male,Yes,Late Admission,29,Western European
+180,19,Female,Yes,General Admission,25,Middle Eastern & North African
+181,21,Female,Yes,Early Bird,15,South Asian
+182,19,Female,Yes,Final Admission,33,Western European
+183,20,Female,No,Early Bird,15,South Asian
+184,27,Male,Yes,Early Bird,15,South Asian
+185,21,Male,Yes,General Admission,10,East & Southeast Asian
+186,18,Male,Yes,General Admission,25,East & Southeast Asian
+187,21,Female,Yes,General Admission,25,Sub-Saharan African
+188,18,Female,,Isabel - 5 people special,19.02,Western European
+189,18,Female,Yes,General Admission,19.02,Western European
+190,18,Male,Yes,Late Admission,29,Western European
+191,18,Female,Yes,General Admission,19.02,Western European
+192,19,Female,No,Early Bird,15,Western European
+193,21,Male,Yes,General Admission,10,Eastern/Central European
+194,20,Male,Yes,Early Bird - TK Party's,0,Western European
+195,21,Male,No,General Admission,25,South Asian
+196,21,Male,No,General Admission,25,Western European
+197,19,Female,Yes,Late Admission,29,Western European
+198,19,Male,Yes,Final Admission,33,Western European
+199,22,Male,Yes,Late Admission,29,Western European
+200,18,Female,No,General Admission,25,Americas & Oceania
+201,19,Male,Yes,General Admission,25,Western European
+202,23,Female,Yes,Late Admission,29,Middle Eastern & North African
+203,21,Male,No,General Admission,25,East & Southeast Asian
+204,19,Female,Yes,Special Admission,0,Americas & Oceania
+205,20,Male,No,General Admission,25,Middle Eastern & North African
+206,19,Male,No,General Admission,25,South Asian
+207,18,Female,Yes,Early Bird,15,Western European
+208,22,Female,Yes,Late Admission,29,Middle Eastern & North African
+209,19,Male,No,Late Admission,29,Western European
+210,18,Male,Yes,Secret Admission,22,Western European
+211,27,Female,Yes,Special entry,26.68,Western European
+212,19,Female,Yes,General Admission,25,Western European
+213,20,Male,No,General Admission,25,Western European
+214,22,Female,Yes,Early Bird,15,Western European
+215,19,Male,Yes,General Admission,25,Americas & Oceania
+216,23,Female,No,General Admission,25,South Asian
+217,18,Male,Yes,General Admission,25,Middle Eastern & North African
+218,20,Male,No,Early Secret Admission,22,Western European
+219,19,Male,No,General Admission,25,Western European
+220,20,Female,No,General Admission,25,South Asian
+221,18,,Yes,General Admission,25,Western European
+222,21,Female,Yes,Early Bird,15,South Asian
+223,22,Male,Yes,Early Bird,15,South Asian
+224,19,Female,No,General Admission,25,South Asian
+225,18,Female,Yes,Early Bird,15,Eastern/Central European
+226,22,Male,No,Early Bird,15,South Asian
+227,23,Male,No,Early Bird,15,South Asian
+228,23,Male,Yes,Early Bird,15,South Asian
+229,22,Male,Yes,Early Bird,15,South Asian
+230,24,Male,No,Final Admission,33,South Asian
+231,25,Male,Yes,Final Admission,33,South Asian
+232,20,Female,Yes,Late Admission,29,Western European
+233,20,Female,Yes,Late Admission,29,Western European
+234,25,Male,Yes,Early Bird - TK Party's,0,Western European
+235,18,Female,Yes,Late Admission,29,Western European
+236,21,Female,No,Late Admission,29,Eastern/Central European
+237,18,Female,Yes,General Admission,25,Middle Eastern & North African
+238,21,Female,Yes,Late Admission,29,Western European
+239,21,Female,Yes,Early Bird,15,Western European
+240,20,Male,Yes,General Admission,25,Eastern/Central European
+241,21,Female,Yes,General Admission,25,Western European
+242,18,Male,Yes,General Admission,19.02,Western European
+243,20,Female,Yes,Early Bird,15,East & Southeast Asian
+244,19,Male,Yes,General Admission,25,East & Southeast Asian
+245,22,Male,Yes,Secret Admission,22,South Asian
+246,19,Male,Yes,Final Admission,33,Eastern/Central European
+247,18,Female,No,Stephen + Nicole Special,0,Eastern/Central European
+248,21,Female,Yes,Late Admission,29,Western European
+249,18,Male,No,Late Admission,29,Americas & Oceania
+250,20,Male,Yes,Early Bird,15,Sub-Saharan African
+251,19,Male,Yes,General Admission,25,South Asian
+252,20,Male,Yes,Final Admission,33,South Asian
+253,21,,No,Yana's Discount Ticket,0,Eastern/Central European
+254,18,,Yes,Early Bird,15,East & Southeast Asian
+255,20,Male,No,General Admission,25,Middle Eastern & North African
+256,18,Female,Yes,Early Bird,15,Western European
+257,18,Female,No,General Admission,25,Western European
+258,20,Female,Yes,General Admission,25,Western European
+259,20,Female,Yes,General Admission,25,Western European
+260,19,Female,Yes,General Admission,25,Western European
+261,20,,No,Final Admission,33,Western European
+262,22,Female,Yes,General Admission,25,East & Southeast Asian
+263,20,Female,Yes,Early Bird,15,Western European
+264,18,Male,Yes,Early Bird,15,Western European
+265,,,Yes,Early Bird,15,South Asian
+266,17,Male,No,Stephen + Nicole Special,0,Eastern/Central European
+267,19,Female,Yes,General Admission,25,Middle Eastern & North African
+268,18,Female,No,General Admission,25,East & Southeast Asian
+269,25,Male,Yes,Early Bird,15,Western European
+270,21,Male,No,Jedz Team,0,East & Southeast Asian
+271,22,Male,Yes,Jedz Team,0,Western European
+272,19,Male,Yes,Jedz Team,0,East & Southeast Asian
+273,21,Female,No,Jedz Team,0,East & Southeast Asian
+274,21,Male,Yes,Jedz Team,0,Western European
+275,21,Male,Yes,Jedz Team,0,Western European
+276,22,Male,No,Jedz Team,0,Sub-Saharan African
+277,20,Female,No,Jedz Team,0,Western European
+278,21,Male,No,Jedz Team,0,Western European
+279,25,Male,No,Jedz Boyz,0,Middle Eastern & North African
+280,21,Male,No,Jedz Boyz,0,Middle Eastern & North African
+281,21,Male,No,Jedz Boyz,0,Western European
+282,21,Male,No,Jedz Boyz,0,Western European
+283,21,Female,Yes,Jedz Guest,0,East & Southeast Asian
+284,21,Male,Yes,Jedz Guest,0,Eastern / Central European
+285,21,Female,Yes,Jedz Guest,0,East & Southeast Asian
+286,,,No,Jedz Guest,0,Western European
+287,18,Male,No,Photographer Entry,0,Western European
+288,18,Male,No,Photographer Entry,0,Western European
+289,20,Male,No,Photographer Entry,0,Western European
+290,20,Female,No,Photographer Entry,0,East & Southeast Asian
+291,18,Male,No,Photographer Entry,0,East & Southeast Asian
+292,20,Female,Yes,Photographer Plus One Entry,13.5,East & Southeast Asian
+293,18,Female,Yes,Photographer Plus One Entry,13.5,East & Southeast Asian
+294,,,Yes,Early Bird,16.21,Western European
+295,19,Female,Yes,Early Bird,16.21,Western European
+296,,,No,Early Bird,16.21,South Asian
+297,,,Yes,Early Bird,16.21,Western European
+298,23,Male,Yes,Early Bird,16.21,Middle Eastern & North African
+299,22,Female,Yes,Early Bird,16.21,East & Southeast Asian
+300,23,Male,Yes,Early Bird,16.21,Western European
+301,19,Female,Yes,Early Bird,16.21,East & Southeast Asian
+302,23,Female,Yes,Early Bird,16.21,Western European
+303,21,Male,Yes,Early Bird,16.21,Western European
+304,21,Female,Yes,Early Bird,16.21,Western European
+305,22,Female,No,Early Bird,16.21,Western European
+306,19,Female,Yes,Early Bird,16.21,East & Southeast Asian
+307,,,No,Early Bird,16.21,Western European
+308,,,Yes,Early Bird,16.21,Western European
+309,21,Male,Yes,Early Bird,16.21,Western European
+310,,,Yes,Early Bird,16.21,East & Southeast Asian
+311,19,Female,Yes,Early Bird,16.21,Western European
+312,,,Yes,Early Bird,16.21,East & Southeast Asian
+313,,,Yes,Early Bird,16.21,East & Southeast Asian
+314,,,Yes,Early Bird,16.21,East & Southeast Asian
+315,18,Male,Yes,Early Bird,16.21,Western European
+316,21,Male,Yes,Early Bird,16.21,Western European
+317,,,Yes,Early Bird,16.21,Western European
+318,,,Yes,Early Bird,16.21,Western European
+319,,,No,Early Bird,16.21,Western European
+320,19,Male,Yes,Early Bird,16.21,Western European
+321,,,Yes,Early Bird,16.21,East & Southeast Asian
+322,,,Yes,Early Bird,16.21,East & Southeast Asian
+323,19,,Yes,Early Bird,16.21,Western European
+324,19,Female,Yes,Early Bird,16.21,Western European
+325,18,Male,Yes,Early Bird,16.21,Western European
+326,,,Yes,Early Bird,16.21,Western European
+327,,,Yes,Early Bird,16.21,Western European
+328,18,Male,Yes,Early Bird,16.21,Western European
+329,,,Yes,Early Bird,16.21,Western European
+330,22,Female,Yes,Early Bird,16.21,East & Southeast Asian
+331,22,,Yes,Early Bird,16.21,Western European
+332,,,Yes,Early Bird,16.21,South Asian
+333,20,Male,Yes,Early Bird,16.21,South Asian
+334,20,,Yes,Early Bird,16.21,Western European
+335,,,Yes,Early Bird,16.21,Western European
+336,20,Female,Yes,Early Bird,16.21,Western European
+337,18,Female,Yes,Early Bird,16.21,Western European
+338,,,Yes,Early Bird,16.21,Western European
+339,,,Yes,Early Bird,16.21,East & Southeast Asian
+340,,,Yes,Early Bird,16.21,Western European
+341,,,Yes,Early Bird,16.21,Western European
+342,19,Male,Yes,Early Bird,16.21,Western European
+343,,,Yes,Early Bird,16.21,Western European
+344,19,Female,Yes,Secret Admission,21.99,Western European
+345,20,Female,Yes,Secret Admission,21.99,Middle Eastern & North African
+346,21,Male,No,Secret Admission,21.99,East & Southeast Asian
+347,21,Male,Yes,Secret Admission,21.99,South Asian
+348,18,Female,Yes,Secret Admission,21.99,Western European
+349,19,Other,Yes,Secret Admission,21.99,East & Southeast Asian
+350,18,Male,No,Secret Admission,21.99,East & Southeast Asian
+351,18,Female,No,Secret Admission,21.99,Western European
+352,22,Male,Yes,Secret Admission,21.99,Western European
+353,19,Male,Yes,Secret Admission,21.99,East & Southeast Asian
+354,23,Female,Yes,Secret Admission,21.99,South Asian
+355,23,Male,Yes,Secret Admission,21.99,Western European
+356,21,Male,Yes,Secret Admission,21.99,Middle Eastern & North African
+357,20,Female,Yes,Secret Admission,21.99,Western European
+358,20,Male,Yes,Secret Admission,21.99,Western European
+359,18,Female,Yes,Secret Admission,21.99,East & Southeast Asian
+360,18,Female,Yes,Secret Admission,21.99,East & Southeast Asian
+361,23,Male,Yes,Secret Admission,21.99,East & Southeast Asian
+362,21,Female,Yes,Secret Admission,21.99,Middle Eastern & North African
+363,18,,Yes,Secret Admission,21.99,Western European
+364,21,Male,Yes,Secret Admission,21.99,East & Southeast Asian
+365,21,Male,Yes,Secret Admission,21.99,East & Southeast Asian
+366,22,Male,Yes,Secret Admission,21.99,East & Southeast Asian
+367,19,Male,Yes,Secret Admission,21.99,East & Southeast Asian
+368,21,Other,Yes,Secret Admission,21.99,East & Southeast Asian
+369,21,Female,Yes,Secret Admission,21.99,East & Southeast Asian
+370,25,Male,Yes,Secret Admission,21.99,Western European
+371,19,Female,Yes,Secret Admission,21.99,Western European
+372,25,Male,Yes,Secret Admission,21.99,East & Southeast Asian
+373,21,Female,Yes,Secret Admission,21.99,Western European
+374,19,Female,Yes,Secret Admission,21.99,Eastern / Central European
+375,18,Male,No,Secret Admission,21.99,Western European
+376,18,Female,No,Secret Admission,21.99,East & Southeast Asian
+377,24,Female,Yes,Secret Admission,21.99,Western European
+378,23,Female,Yes,Secret Admission,21.99,Western European
+379,30,Male,Yes,Secret Admission,21.99,Western European
+380,22,Male,Yes,Secret Admission,21.99,Western European
+381,21,Female,Yes,Secret Admission,21.99,South Asian
+382,20,Male,Yes,Secret Admission,21.99,Western European
+383,20,Male,Yes,Secret Admission,21.99,Western European
+384,20,Female,Yes,Secret Admission,21.99,Western European
+385,20,Male,Yes,Late Secret Admission,24.99,Western European
+386,19,Female,Yes,Late Secret Admission,24.99,Americas & Oceania
+387,18,Female,Yes,Late Secret Admission,24.99,Western European
+388,21,Female,Yes,Late Secret Admission,24.99,Western European
+389,19,Female,Yes,Late Secret Admission,24.99,Western European
+390,18,Female,Yes,Late Secret Admission,24.99,Western European
+391,21,Male,Yes,Late Secret Admission,24.99,East & Southeast Asian
+392,18,Male,Yes,Late Secret Admission,24.99,Western European
+393,23,Male,Yes,Late Secret Admission,24.99,East & Southeast Asian
+394,18,Male,Yes,Late Secret Admission,24.99,East & Southeast Asian
+395,18,Male,Yes,Late Secret Admission,24.99,East & Southeast Asian
+396,19,Male,Yes,Late Secret Admission,24.99,East & Southeast Asian
+397,25,Male,Yes,Late Secret Admission,24.99,Western European
+398,21,Male,Yes,Late Secret Admission,24.99,Middle Eastern & North African
+399,19,Male,Yes,Late Secret Admission,24.99,Western European
+400,22,Other,Yes,Late Secret Admission,24.99,Western European
+401,18,Female,Yes,Late Secret Admission,24.99,Americas & Oceania
+402,18,Female,Yes,Late Secret Admission,24.99,East & Southeast Asian
+403,21,Male,Yes,Late Secret Admission,24.99,Middle Eastern & North African
+404,18,Female,Yes,Late Secret Admission,24.99,Western European
+405,21,Male,Yes,Late Secret Admission,24.99,Western European
+406,21,Male,No,Late Secret Admission,24.99,Sub-Saharan African
+407,25,Female,Yes,Late Secret Admission,24.99,Western European
+408,20,Male,No,Late Secret Admission,24.99,East & Southeast Asian
+409,20,Male,Yes,Late Secret Admission,24.99,East & Southeast Asian
+410,22,Male,Yes,Late Secret Admission,24.99,Western European
+411,22,Male,Yes,Late Secret Admission,24.99,Eastern / Central European
+412,20,Male,Yes,Late Secret Admission,24.99,Western European
+413,21,Male,Yes,Late Secret Admission,24.99,Western European
+414,21,Other,Yes,Late Secret Admission,24.99,Western European
+415,20,Female,Yes,Late Secret Admission,24.99,East & Southeast Asian
+416,25,Male,No,Late Secret Admission,24.99,Western European
+417,22,Female,Yes,General Admission,26.99,East & Southeast Asian
+418,18,Female,Yes,General Admission,26.99,Western European
+419,18,Male,No,General Admission,26.99,Sub-Saharan African
+420,20,Male,Yes,General Admission,26.99,East & Southeast Asian
+421,21,Other,Yes,General Admission,26.99,Middle Eastern & North African
+422,22,Female,Yes,General Admission,26.99,Western European
+423,18,Female,Yes,General Admission,26.99,Western European
+424,22,Male,Yes,General Admission,26.99,Western European
+425,18,Female,Yes,General Admission,26.99,Western European
+426,18,Female,Yes,General Admission,26.99,Western European
+427,21,Male,Yes,General Admission,26.99,East & Southeast Asian
+428,23,Male,Yes,General Admission,26.99,East & Southeast Asian
+429,18,Male,Yes,General Admission,26.99,East & Southeast Asian
+430,18,Male,No,General Admission,26.99,Western European
+431,18,Male,No,General Admission,26.99,Western European
+432,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+433,21,Female,No,General Admission,26.99,Americas & Oceania
+434,27,Male,Yes,General Admission,26.99,East & Southeast Asian
+435,32,Male,No,General Admission,26.99,Sub-Saharan African
+436,18,Female,Yes,General Admission,26.99,Western European
+437,28,Male,No,General Admission,26.99,East & Southeast Asian
+438,21,Male,No,General Admission,26.99,Western European
+439,20,Male,Yes,General Admission,26.99,East & Southeast Asian
+440,20,Male,Yes,General Admission,26.99,East & Southeast Asian
+441,22,Male,Yes,General Admission,26.99,Western European
+442,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+443,21,Male,Yes,General Admission,26.99,Western European
+444,20,Male,No,General Admission,26.99,Western European
+445,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+446,18,Female,Yes,General Admission,26.99,Western European
+447,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+448,19,Female,Yes,General Admission,26.99,Middle Eastern & North African
+449,18,Male,Yes,General Admission,26.99,East & Southeast Asian
+450,20,Male,Yes,General Admission,26.99,Western European
+451,23,,Yes,General Admission,26.99,Western European
+452,25,Male,No,General Admission,26.99,Middle Eastern & North African
+453,21,Male,Yes,General Admission,26.99,Middle Eastern & North African
+454,25,Male,No,General Admission,26.99,East & Southeast Asian
+455,18,Female,No,General Admission,26.99,Western European
+456,20,Female,Yes,General Admission,26.99,Western European
+457,28,Female,No,General Admission,26.99,Western European
+458,21,Female,Yes,General Admission,26.99,Western European
+459,18,Male,Yes,General Admission,26.99,Western European
+460,24,Male,Yes,General Admission,26.99,South Asian
+461,21,Male,No,General Admission,26.99,South Asian
+462,19,Male,Yes,General Admission,26.99,East & Southeast Asian
+463,26,Female,No,General Admission,26.99,Western European
+464,26,Male,Yes,General Admission,26.99,South Asian
+465,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+466,22,Female,Yes,General Admission,26.99,South Asian
+467,19,Male,Yes,General Admission,26.99,Sub-Saharan African
+468,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+469,22,Female,No,General Admission,26.99,Western European
+470,21,Male,Yes,General Admission,26.99,Western European
+471,22,Male,Yes,General Admission,26.99,East & Southeast Asian
+472,31,Female,No,General Admission,26.99,Western European
+473,23,Male,No,General Admission,26.99,Western European
+474,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+475,19,Female,Yes,General Admission,26.99,Western European
+476,18,Male,Yes,General Admission,26.99,Middle Eastern & North African
+477,19,Female,Yes,General Admission,26.99,East & Southeast Asian
+478,22,Male,Yes,General Admission,26.99,East & Southeast Asian
+479,19,Female,Yes,General Admission,26.99,Middle Eastern & North African
+480,21,Female,No,General Admission,26.99,Sub-Saharan African
+481,20,Female,Yes,General Admission,26.99,East & Southeast Asian
+482,29,Male,No,General Admission,26.99,South Asian
+483,30,Male,No,General Admission,26.99,South Asian
+484,22,Male,Yes,General Admission,26.99,Western European
+485,22,Male,No,General Admission,26.99,Western European
+486,21,Female,Yes,General Admission,26.99,East & Southeast Asian
+487,19,Male,Yes,General Admission,26.99,South Asian
+488,21,Female,Yes,General Admission,26.99,South Asian
+489,18,Male,Yes,General Admission,26.99,Western European
+490,25,Male,Yes,General Admission,26.99,Middle Eastern & North African
+491,24,Male,Yes,General Admission,26.99,South Asian
+492,18,Male,Yes,General Admission,26.99,East & Southeast Asian
+493,23,Male,No,General Admission,26.99,South Asian
+494,22,Male,Yes,General Admission,26.99,South Asian
+495,21,Male,Yes,General Admission,26.99,South Asian
+496,18,Female,Yes,General Admission,26.99,Eastern / Central European
+497,20,Male,Yes,General Admission,26.99,South Asian
+498,22,Male,Yes,General Admission,26.99,South Asian
+499,22,Male,Yes,General Admission,26.99,South Asian
+500,22,Male,Yes,General Admission,26.99,Western European
+501,20,Female,Yes,General Admission,26.99,Western European
+502,22,Female,Yes,General Admission,26.99,Western European
+503,22,Male,Yes,General Admission,26.99,Western European
+504,19,Female,Yes,General Admission,26.99,South Asian
+505,20,Female,Yes,General Admission,26.99,Western European
+506,18,Male,Yes,General Admission,26.99,Western European
+507,20,Female,Yes,General Admission,26.99,Western European
+508,21,Male,Yes,General Admission,26.99,South Asian
+509,18,Female,Yes,General Admission,26.99,Western European
+510,19,Female,Yes,General Admission,26.99,Western European
+511,20,Female,Yes,General Admission,26.99,Western European
+512,19,Male,Yes,General Admission,26.99,Americas & Oceania
+513,21,Female,No,General Admission,26.99,Western European
+514,25,Female,No,General Admission,26.99,Western European
+515,20,Male,No,General Admission,26.99,Western European
+516,18,Female,Yes,General Admission,26.99,East & Southeast Asian
+517,18,Male,Yes,Extended Admission,29.99,Sub-Saharan African
+518,18,Male,No,Extended Admission,29.99,East & Southeast Asian
+519,22,Male,Yes,Extended Admission,29.99,Western European
+520,20,Male,Yes,Extended Admission,29.99,Western European
+521,22,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+522,18,Female,Yes,Extended Admission,29.99,Western European
+523,22,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+524,24,Male,Yes,Extended Admission,29.99,Western European
+525,18,Male,Yes,Extended Admission,29.99,Western European
+526,20,Female,Yes,Extended Admission,29.99,Western European
+527,19,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+528,18,Male,Yes,Extended Admission,29.99,Western European
+529,20,Male,No,Extended Admission,29.99,East & Southeast Asian
+530,18,Female,Yes,Extended Admission,29.99,Western European
+531,22,Female,Yes,Extended Admission,29.99,Western European
+532,20,Female,Yes,Extended Admission,29.99,Western European
+533,18,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+534,22,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+535,18,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+536,19,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+537,18,Male,Yes,Extended Admission,29.99,Western European
+538,19,Male,Yes,Extended Admission,29.99,Western European
+539,19,,No,Extended Admission,29.99,Western European
+540,27,Female,Yes,Extended Admission,29.99,Western European
+541,19,,Yes,Extended Admission,29.99,Western European
+542,19,Male,Yes,Extended Admission,29.99,Western European
+543,18,Female,No,Extended Admission,29.99,Western European
+544,19,Male,Yes,Extended Admission,29.99,Western European
+545,22,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+546,18,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+547,20,Male,No,Extended Admission,29.99,Western European
+548,18,Male,No,Extended Admission,29.99,Western European
+549,20,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+550,23,Female,No,Extended Admission,29.99,Western European
+551,20,Female,Yes,Extended Admission,29.99,Western European
+552,21,Female,Yes,Extended Admission,29.99,Western European
+553,19,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+554,19,Female,Yes,Extended Admission,29.99,Western European
+555,19,Female,Yes,Extended Admission,29.99,Americas & Oceania
+556,18,Male,Yes,Extended Admission,29.99,Sub-Saharan African
+557,20,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+558,20,Female,Yes,Extended Admission,29.99,Americas & Oceania
+559,19,Female,Yes,Extended Admission,29.99,Sub-Saharan African
+560,22,Female,No,Extended Admission,29.99,Middle Eastern & North African
+561,22,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+562,19,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+563,18,Female,No,Extended Admission,29.99,East & Southeast Asian
+564,18,Female,Yes,Extended Admission,29.99,Eastern / Central European
+565,20,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+566,21,Female,No,Extended Admission,29.99,East & Southeast Asian
+567,18,Female,No,Extended Admission,29.99,East & Southeast Asian
+568,18,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+569,19,Male,Yes,Extended Admission,29.99,Western European
+570,18,Female,No,Extended Admission,29.99,East & Southeast Asian
+571,20,Male,Yes,Extended Admission,29.99,Western European
+572,23,Male,No,Extended Admission,29.99,East & Southeast Asian
+573,23,Male,Yes,Extended Admission,29.99,Western European
+574,21,Male,No,Extended Admission,29.99,East & Southeast Asian
+575,21,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+576,21,Male,Yes,Extended Admission,29.99,Western European
+577,22,Female,Yes,Extended Admission,29.99,Western European
+578,22,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+579,24,Male,No,Extended Admission,29.99,East & Southeast Asian
+580,18,Male,No,Extended Admission,29.99,East & Southeast Asian
+581,18,Female,Yes,Extended Admission,29.99,Western European
+582,21,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+583,22,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+584,18,Female,Yes,Extended Admission,29.99,Eastern / Central European
+585,25,Female,No,Extended Admission,29.99,Western European
+586,18,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+587,20,Male,Yes,Extended Admission,29.99,Western European
+588,20,,No,Extended Admission,29.99,Western European
+589,20,Male,Yes,Extended Admission,29.99,Western European
+590,25,Male,Yes,Extended Admission,29.99,Western European
+591,18,Male,Yes,Extended Admission,29.99,Middle Eastern & North African
+592,22,Male,Yes,Extended Admission,29.99,East & Southeast Asian
+593,22,Male,Yes,Extended Admission,29.99,Western European
+594,18,Female,No,Extended Admission,29.99,Western European
+595,18,Female,Yes,Extended Admission,29.99,Western European
+596,20,Female,Yes,Extended Admission,29.99,Western European
+597,18,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+598,18,Male,No,Extended Admission,29.99,East & Southeast Asian
+599,22,Male,Yes,Extended Admission,29.99,South Asian
+600,18,Other,Yes,Extended Admission,29.99,Sub-Saharan African
+601,23,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+602,21,Female,Yes,Extended Admission,29.99,Western European
+603,18,Male,Yes,Extended Admission,29.99,Western European
+604,19,Female,Yes,Extended Admission,29.99,Eastern / Central European
+605,22,Male,Yes,Extended Admission,29.99,Western European
+606,18,Female,Yes,Extended Admission,29.99,Western European
+607,18,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+608,20,Female,No,Extended Admission,29.99,East & Southeast Asian
+609,22,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+610,20,Female,Yes,Extended Admission,29.99,East & Southeast Asian
+611,21,Male,Yes,Extended Admission,29.99,Western European
+612,18,Female,Yes,Late Admission,29.99,Middle Eastern & North African
+613,18,Female,No,Late Admission,29.99,East & Southeast Asian
+614,19,Female,Yes,Late Admission,29.99,East & Southeast Asian
+615,19,Male,Yes,Late Admission,29.99,Western European
+616,19,Female,Yes,Late Admission,29.99,Western European
+617,19,Male,Yes,Late Admission,29.99,Western European
+618,18,Male,Yes,Late Admission,29.99,East & Southeast Asian
+619,22,Female,No,Late Admission,29.99,South Asian
+620,18,Female,Yes,Late Admission,29.99,East & Southeast Asian
+621,22,Female,Yes,Late Admission,29.99,Western European
+622,23,Male,Yes,Late Admission,29.99,South Asian
+623,23,Female,Yes,Late Admission,29.99,Eastern / Central European
+624,19,Male,Yes,Late Admission,29.99,South Asian
+625,18,Female,Yes,Late Admission,29.99,East & Southeast Asian
+626,19,,Yes,Late Admission,29.99,Western European
+627,21,Male,Yes,Late Admission,29.99,Eastern / Central European
+628,20,Female,Yes,Late Admission,29.99,Western European
+629,21,Male,Yes,Late Admission,29.99,Middle Eastern & North African
+630,20,Female,Yes,Late Admission,29.99,East & Southeast Asian
+631,19,Female,No,Late Admission,29.99,East & Southeast Asian
+632,19,Female,Yes,Final Admission,39.99,Middle Eastern & North African
+633,21,Male,No,Final Admission,39.99,East & Southeast Asian
+634,19,Male,No,Final Admission,39.99,East & Southeast Asian
+635,21,Female,No,Final Admission,39.99,Western European
+636,22,Male,Yes,Final Admission,39.99,Western European
+637,19,Male,Yes,Final Admission,39.99,East & Southeast Asian
+638,22,Male,Yes,Final Admission,39.99,East & Southeast Asian
+639,21,Male,Yes,Final Admission,39.99,East & Southeast Asian
+640,21,Male,Yes,Final Admission,39.99,East & Southeast Asian
+641,19,Female,No,Final Admission,39.99,South Asian
+642,18,Female,Yes,Final Admission,39.99,East & Southeast Asian
+643,21,Male,Yes,Final Admission,39.99,East & Southeast Asian
+644,20,Male,Yes,Final Admission,39.99,Western European
+645,18,Male,Yes,Final Admission,39.99,Western European
+646,18,Female,Yes,Final Admission,39.99,Western European
+647,20,,Yes,Final Admission,39.99,East & Southeast Asian
+648,20,Male,Yes,Final Admission,39.99,Western European
+649,23,Female,Yes,Final Admission,39.99,Western European
+650,24,Male,Yes,Final Admission,39.99,Western European
+651,20,Male,Yes,Final Admission,39.99,Western European
+652,21,Female,Yes,Final Admission,39.99,East & Southeast Asian
+653,18,Female,Yes,Final Admission,39.99,Western European
+654,18,Female,No,Final Admission,39.99,Western European
+655,21,Male,No,Final Admission,39.99,Western European
+656,21,Male,No,Final Admission,39.99,Western European
+657,21,Male,No,Final Admission,39.99,Western European
+658,20,Male,Yes,Final Admission,39.99,Sub-Saharan African
+659,19,Male,Yes,Final Admission,39.99,East & Southeast Asian
+660,30,Female,Yes,Final Admission,39.99,East & Southeast Asian
+661,19,Male,Yes,Final Admission,39.99,East & Southeast Asian
+662,19,Female,Yes,Final Admission,39.99,Western European
+663,25,Male,No,Final Admission,39.99,Western European
+664,21,Male,Yes,Final Admission,39.99,Western European
+665,20,Female,Yes,Final Admission,39.99,Western European
+666,18,Male,Yes,Final Admission,39.99,Western European
+667,21,Male,No,Final Admission,39.99,East & Southeast Asian
+668,18,Male,No,Final Admission,39.99,Sub-Saharan African
+669,22,Male,No,Final Admission,39.99,Western European
+670,19,Female,Yes,Final Admission,39.99,East & Southeast Asian
+671,21,Male,Yes,Final Admission,39.99,Western European
+672,19,Female,Yes,Final Admission,39.99,Western European
+673,24,Female,Yes,Final Admission,39.99,Eastern / Central European
+674,22,Female,Yes,Final Admission,39.99,Middle Eastern & North African
+675,18,Female,Yes,Final Admission,39.99,East & Southeast Asian
+676,19,Female,Yes,Final Admission,39.99,Western European
+677,19,Male,Yes,Final Admission,39.99,Western European
+678,20,Female,Yes,Final Admission,39.99,South Asian
+679,20,Male,Yes,Final Admission,39.99,East & Southeast Asian
+680,22,Male,No,Final Admission,39.99,Western European
+681,19,Female,Yes,Final Admission,39.99,East & Southeast Asian
+682,19,Male,No,Final Admission,39.99,Eastern / Central European
+683,19,Male,Yes,Final Admission,39.99,Eastern / Central European
+684,20,Male,Yes,Final Admission,39.99,East & Southeast Asian
+685,21,Male,Yes,Final Admission,39.99,Western European
+686,21,Male,No,Final Admission,39.99,South Asian
+687,19,Female,Yes,Final Admission,39.99,East & Southeast Asian
+688,20,Female,Yes,Final Admission,39.99,East & Southeast Asian
+689,21,Male,Yes,Final Admission,39.99,East & Southeast Asian
+690,22,Male,Yes,VIP,0,Western European
+691,18,Male,No,VIP,0,Sub-Saharan African
+692,21,Male,No,VIP,0,Western European
+693,20,Female,Yes,VIP,0,East & Southeast Asian
+694,21,Male,No,VIP,0,Western European
+695,21,Male,No,VIP,0,Eastern / Central European
+696,21,Male,Yes,VIP,0,Sub-Saharan African
+697,27,Male,No,VIP,0,Western European
+698,29,Male,No,VIP,0,Western European
+699,27,Female,No,VIP,0,Western European
